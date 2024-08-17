@@ -16,6 +16,9 @@ bing_verify:
 # Contact form:
 contact: static
 
+# Contact form:
+testimonials: static
+
 # If you use disqus you need disqus shortname
 disqus_shortname: wajahat-portfolio
 
