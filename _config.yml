@@ -1,5 +1,5 @@
 # Site settings
-title: Wajahat Ali - Data Scientist Portfolio
+title: Wajahat Ali - Portfolio
 email: termazie@gmail.com
 url: https://github.com/wajahat16079
 description: "Welcome to my portfolio website. I am a Data Scientist with expertise in Statistical Analysis, Data Visualization, Machine Learning, and Web Development. Explore my work, projects, and experience."
@@ -33,16 +33,30 @@ footer:
   social: Connect with me
   credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
-# Social networks usernames
 social:
   - title: LinkedIn
     url: https://www.linkedin.com/in/swajahatali/
+    icon: fa-linkedin # LinkedIn icon
+
   - title: GitHub
     url: https://github.com/wajahat16079
+    icon: fa-github # GitHub icon
+
+  - title: Fiverr
+    url: https://www.fiverr.com/your-fiverr-username # Replace with your actual Fiverr username
+    icon: fa-fiverr # Fiverr icon (Note: This requires a custom icon as Font Awesome doesn't include a Fiverr icon by default)
+
+  - title: Upwork
+    url: https://www.upwork.com/freelancers/~your-upwork-username # Replace with your actual Upwork username
+    icon: fa-upwork # Upwork icon (Note: This requires a custom icon as Font Awesome doesn't include an Upwork icon by default)
+
   - title: Twitter
-    url: https://twitter.com/your-twitter-handle (Replace with your actual Twitter handle)
+    url: https://twitter.com/your-twitter-handle # Replace with your actual Twitter handle
+    icon: fa-twitter # Twitter icon
+
   - title: Stack Overflow
-    url: https://stackoverflow.com/users/your-stackoverflow-id (Replace with your actual Stack Overflow ID)
+    url: https://stackoverflow.com/users/your-stackoverflow-id # Replace with your actual Stack Overflow ID
+    icon: fa-stack-overflow # Stack Overflow icon
 
 # Postal address
 address:
