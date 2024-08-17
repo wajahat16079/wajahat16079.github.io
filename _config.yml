@@ -29,42 +29,26 @@ color:
 # Footer settings
 footer:
   copyright: Wajahat Ali
-  location: Toronto, Canada
+  location: Waterloo, Canada
   social: Connect with me
   credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 social:
-  - title: LinkedIn
+  - title: youtube
+    url: https://www.youtube.com/@Viz_IT
+  - title: github
+    url: http://github.com/wajahat16079
+  - title: linkedin
     url: https://www.linkedin.com/in/swajahatali/
-    icon: fa-linkedin # LinkedIn icon
-
-  - title: GitHub
-    url: https://github.com/wajahat16079
-    icon: fa-github # GitHub icon
-
-  - title: Fiverr
-    url: https://www.fiverr.com/your-fiverr-username # Replace with your actual Fiverr username
-    icon: fa-fiverr # Fiverr icon (Note: This requires a custom icon as Font Awesome doesn't include a Fiverr icon by default)
-
-  - title: Upwork
-    url: https://www.upwork.com/freelancers/~your-upwork-username # Replace with your actual Upwork username
-    icon: fa-upwork # Upwork icon (Note: This requires a custom icon as Font Awesome doesn't include an Upwork icon by default)
-
-  - title: Twitter
-    url: https://twitter.com/your-twitter-handle # Replace with your actual Twitter handle
-    icon: fa-twitter # Twitter icon
-
-  - title: Stack Overflow
-    url: https://stackoverflow.com/users/your-stackoverflow-id # Replace with your actual Stack Overflow ID
-    icon: fa-stack-overflow # Stack Overflow icon
 
 # Postal address
 address:
-  - line: Toronto, Ontario
+  - line: Waterloo, Ontario
   - line: Canada
 
+
 # Credits content
-credits: 'This portfolio is based on the Freelancer theme, customized to showcase the work and skills of Wajahat Ali.'
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
