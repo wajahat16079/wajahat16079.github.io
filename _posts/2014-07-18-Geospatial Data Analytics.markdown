@@ -2,8 +2,8 @@
 layout: default
 modal-id: 7
 date: 2024-08-17
-img: bird_ranger_geospatial.png
-alt: bird_ranger_geospatial.png
+img: final_geospatial_analysis_image_v4.png
+alt: final_geospatial_analysis_image_v4.png
 project-date: Sept 2023 - Jul 2024
 client: The World Land Trust and The American Bird Conservancy
 category: Geospatial Data Analytics - R Shiny Web Application
