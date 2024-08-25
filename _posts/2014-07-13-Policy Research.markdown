@@ -5,7 +5,7 @@ date: 2014-07-15
 img: policy_research_image_final_1000x700.png
 alt: image-alt
 project-date: June 2022
-client: Start Bootstrap
+client: LUMS Energy Institute
 category: Policy Research
 description: |
     <div style="text-align: left;">
